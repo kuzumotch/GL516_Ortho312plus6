@@ -235,7 +235,7 @@
   )
 
   (module kbd_Parts:Battery_XH2.5_GL_PCB (layer F.Cu) (tedit 60F1BB30) (tstamp 610A543C)
-    (at 270.46 20.905)
+    (at 254.8672 23.762)
     (path /60972E39)
     (fp_text reference J1 (at -3 -2) (layer F.Fab)
       (effects (font (size 1 1) (thickness 0.15)))
@@ -497,7 +497,7 @@
   )
 
   (module kbd_Parts:ResetSW (layer F.Cu) (tedit 5C4C7922) (tstamp 610A5C9F)
-    (at 257.125 22.81)
+    (at 271.4176 21.3807)
     (path /5BF185E6)
     (fp_text reference SW43 (at 0 2.55) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2904,7 +2904,7 @@
     (tags R)
     (path /60C8F2C5)
     (autoplace_cost180 10)
-    (fp_text reference D42 (at 0 -1.63 90) (layer B.SilkS)
+    (fp_text reference D42 (at 0 1.905 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.125)) (justify mirror))
     )
     (fp_text value D (at -0.55 0 90) (layer F.Fab) hide
@@ -2939,7 +2939,7 @@
     (tags R)
     (path /60C8F2CF)
     (autoplace_cost180 10)
-    (fp_text reference D41 (at 0 -1.63 90) (layer B.SilkS)
+    (fp_text reference D41 (at 0 1.905 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.125)) (justify mirror))
     )
     (fp_text value D (at -0.55 0 90) (layer F.Fab) hide
