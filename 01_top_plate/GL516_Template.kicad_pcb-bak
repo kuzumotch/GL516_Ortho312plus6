@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 730)
+    (drawings 731)
     (tracks 0)
     (zones 0)
     (modules 59)
@@ -105,7 +105,7 @@
   )
 
   (module logos:kuzumotchi_logo_mask_mini (layer F.Cu) (tedit 0) (tstamp 610B4571)
-    (at 314.275 104.725)
+    (at 312.37 102.82)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
@@ -1356,6 +1356,9 @@
     )
   )
 
+  (gr_text "Ortho312plus6 rev1.0\n\n" (at 312.37 114.25) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_arc (start 302.225 92.674999) (end 302.225 92.674999) (angle -90) (layer Dwgs.User) (width 0.2) (tstamp 610A7ABC))
   (gr_arc (start 283.174999 92.674999) (end 283.174999 92.674999) (angle -90) (layer Dwgs.User) (width 0.2) (tstamp 610A7ABB))
   (gr_line (start 307.275 78.675) (end 321.275 78.675) (layer Dwgs.User) (width 0.2) (tstamp 610A7ABA))
